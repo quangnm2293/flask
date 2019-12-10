@@ -5,3 +5,5 @@ graphviz
 matplotlib
 flask
 flake8
+pylint
+anaconda
