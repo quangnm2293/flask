@@ -4,3 +4,4 @@ neat-python
 graphviz
 matplotlib
 flask
+flake8
