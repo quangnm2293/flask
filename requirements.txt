@@ -1,10 +1,7 @@
 numpy
 pygame
-neat-python
-graphviz
 matplotlib
 flask
-flake8
 pylint
 anaconda
 Django==1.9.4
