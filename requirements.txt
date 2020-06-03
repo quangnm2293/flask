@@ -7,3 +7,4 @@ flask
 flake8
 pylint
 anaconda
+Django==1.9.4
