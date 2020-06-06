@@ -3,4 +3,4 @@ matplotlib
 flask
 pylint
 anaconda
-Django==1.11.28
+Django==1.11.29
